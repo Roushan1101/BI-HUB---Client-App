@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BI-HUB---Client-App/static/css/main.5c119121.chunk.css",
+    "main.js": "/BI-HUB---Client-App/static/js/main.de49fe2c.chunk.js",
+    "main.js.map": "/BI-HUB---Client-App/static/js/main.de49fe2c.chunk.js.map",
+    "runtime-main.js": "/BI-HUB---Client-App/static/js/runtime-main.bb7d2001.js",
+    "runtime-main.js.map": "/BI-HUB---Client-App/static/js/runtime-main.bb7d2001.js.map",
+    "static/css/2.d7b63610.chunk.css": "/BI-HUB---Client-App/static/css/2.d7b63610.chunk.css",
+    "static/js/2.a621950e.chunk.js": "/BI-HUB---Client-App/static/js/2.a621950e.chunk.js",
+    "static/js/2.a621950e.chunk.js.map": "/BI-HUB---Client-App/static/js/2.a621950e.chunk.js.map",
+    "index.html": "/BI-HUB---Client-App/index.html",
+    "precache-manifest.17087f3f9a9110bd0bb5189754a37a90.js": "/BI-HUB---Client-App/precache-manifest.17087f3f9a9110bd0bb5189754a37a90.js",
+    "service-worker.js": "/BI-HUB---Client-App/service-worker.js",
+    "static/css/2.d7b63610.chunk.css.map": "/BI-HUB---Client-App/static/css/2.d7b63610.chunk.css.map",
+    "static/css/main.5c119121.chunk.css.map": "/BI-HUB---Client-App/static/css/main.5c119121.chunk.css.map",
+    "static/js/2.a621950e.chunk.js.LICENSE": "/BI-HUB---Client-App/static/js/2.a621950e.chunk.js.LICENSE",
+    "static/media/search_icon.png": "/BI-HUB---Client-App/static/media/search_icon.876d6c05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb7d2001.js",
+    "static/css/2.d7b63610.chunk.css",
+    "static/js/2.a621950e.chunk.js",
+    "static/css/main.5c119121.chunk.css",
+    "static/js/main.de49fe2c.chunk.js"
+  ]
+}
